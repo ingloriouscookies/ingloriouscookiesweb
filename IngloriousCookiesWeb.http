@@ -1,0 +1,6 @@
+@IngloriousCookiesWeb_HostAddress = http://localhost:5187
+
+GET {{IngloriousCookiesWeb_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
